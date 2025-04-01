@@ -13,4 +13,4 @@ ORDER OF INSERTION
 12. ⁠login credential
 
 
-first make all tables in table.sql then inser data of each table
+first make all tables in table.sql then insert data of each table
