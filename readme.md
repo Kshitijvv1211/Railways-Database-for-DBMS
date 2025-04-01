@@ -11,3 +11,6 @@ ORDER OF INSERTION
 10. ⁠ pay info 
 11. ⁠ refund rule
 12. ⁠login credential
+
+
+first make all tables in table.sql then inser data of each table
